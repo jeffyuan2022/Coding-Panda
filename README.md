@@ -1,4 +1,5 @@
 # Dear Parents
+
 Starting Monday (June 20th, 2022), your kids will start learning programming in the *Coding Panda* class at Grace All-Star Academy Summer Camp. The following items and software are ***required*** to let your kids start the course:
 
 1. A laptop or a Chromebook with its charger **(No iPads)**
