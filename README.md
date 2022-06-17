@@ -4,6 +4,7 @@ Starting Monday (June 20th, 2022), your kids will start learning programming in 
 
 1. A laptop or a Chromebook with its charger **(No iPads)**
 2. A videoconference software called **`Zoom`** must be installed on that computer. To install the software, please [**click here**](https://zoom.us/download)
+3. A computer mouse is **RECOMMENDED** (Optional)
 
 ---
 
